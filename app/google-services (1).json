@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "212532792507",
+    "firebase_url": "https://pamc-72e72-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pamc-72e72",
+    "storage_bucket": "pamc-72e72.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212532792507:android:eb882535c4a2ee8111ad9e",
+        "android_client_info": {
+          "package_name": "com.example.broberapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAquWSL9tErUTXeLqw6VXLLA-s_A8je_RQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212532792507:android:542e29cd56b8609111ad9e",
+        "android_client_info": {
+          "package_name": "com.example.profiluser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAquWSL9tErUTXeLqw6VXLLA-s_A8je_RQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212532792507:android:1ecd81fc8186115c11ad9e",
+        "android_client_info": {
+          "package_name": "com.example.statusupdate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAquWSL9tErUTXeLqw6VXLLA-s_A8je_RQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
